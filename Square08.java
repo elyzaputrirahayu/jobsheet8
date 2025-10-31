@@ -7,9 +7,9 @@ public class Square08 {
         int N = sc.nextInt();
 
         for (int iOuter = 1; iOuter<=N; iOuter ++) {
-        for (int i = 1; i<=N; i++) {
+            for (int i = 1; i<=N; i++) {
             System.out.println("*");
-        }
+            }
         }
     }
 }
