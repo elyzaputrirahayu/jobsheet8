@@ -7,6 +7,8 @@ public class NilaiKelompok08 {
         int i, j, nilai;
         float totalNilai,rataNilai;
 
-        
+        for (j=1;j<=5;j++) {
+            
+        }
     }
 }
