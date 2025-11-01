@@ -14,6 +14,7 @@ public class Triangle08 {
                 j++;
             }
             i++;
+            
         }
 
     }
